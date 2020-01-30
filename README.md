@@ -89,8 +89,3 @@ I find this topic quite interesting and with a lot of potential. I would probabl
  I even enrolled in a *Masters of Data Mining* and will probably do some similar projects. I will link anything useful here.
 
 I've already put some more time on finishing the project, but I would like to transform it more to a tutorial about getting into the field of AI while having the ability to easily extend it with new custom features. 
-
-## Updates
-
-**Update - 29.12.19:** 
-The repository has become pretty popular, so I added a new notebook (*Demo.ipynb*) that combines all the modules and generates questions for any text. I reordered the other notebooks and documented the code (a bit better). 
