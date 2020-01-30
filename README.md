@@ -1,3 +1,5 @@
+
+#### **ALEART** This repo could't have glov6B.300d.txt.
 #  Question Generation
 This project was originally intended for an AI course at Sofia University. During it's execution, I was constraint on time and couldn't implement all the ideas I had, but I plan to continue working on it.
 
