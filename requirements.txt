@@ -250,7 +250,7 @@ tornado==6.0.3
 tqdm==4.36.1
 traitlets==4.3.3
 unicodecsv==0.14.1
-urllib3==1.24.2
+urllib3==1.26.5
 utils==1.0.0
 virtualenv==16.7.9
 wasabi==0.6.0
