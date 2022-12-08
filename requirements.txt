@@ -28,7 +28,7 @@ bs4==0.0.1
 cachetools==3.1.1
 catalogue==1.0.0
 catboost==0.20.2
-certifi==2019.9.11
+certifi==2022.12.7
 cffi==1.12.3
 chardet==3.0.4
 Click==7.0
